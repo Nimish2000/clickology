@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212117780427",
+    "project_id": "clickology-48666",
+    "storage_bucket": "clickology-48666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212117780427:android:a6991cfa288245b345684e",
+        "android_client_info": {
+          "package_name": "com.example.clickology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212117780427-vsk2r351iauv2rvhio11pn0t7s762ubm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8fnFnnoqPL-OEZvi6oQf3fzI5TVNGq-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212117780427-vsk2r351iauv2rvhio11pn0t7s762ubm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
