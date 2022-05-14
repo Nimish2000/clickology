@@ -1,4 +1,4 @@
-# clickology
+# Clickology
 
 An chatting application.
 
